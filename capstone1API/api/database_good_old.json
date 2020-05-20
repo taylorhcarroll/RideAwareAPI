@@ -1,0 +1,829 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Inky",
+      "userName": "Inky",
+      "admin": "false",
+      "password": "pass",
+      "picURL": "https://res.cloudinary.com/nss-35/image/upload/v1573488150/py4bfyk2kxnncpmmvjri.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Blinky",
+      "userName": "Blinky",
+      "admin": "false",
+      "password": "pass",
+      "picURL": ""
+    },
+    {
+      "id": 3,
+      "name": "Pinky",
+      "userName": "Pinky",
+      "admin": "false",
+      "password": "pass",
+      "picURL": ""
+    },
+    {
+      "name": "Sue",
+      "userName": "Sue",
+      "password": "pass",
+      "picURL": "",
+      "admin": "false",
+      "id": 4
+    },
+    {
+      "name": "Clyde",
+      "userName": "Clyde",
+      "password": "pass",
+      "admin": "false",
+      "id": 5,
+      "picURL": ""
+    },
+    {
+      "name": "PAC-MAN-H8TR-89",
+      "userName": "PAC-MAN-H8TR-89",
+      "password": "pass",
+      "picURL": "",
+      "admin": "false",
+      "id": 6
+    },
+    {
+      "userName": "Penny",
+      "password": "pass",
+      "picURL": "",
+      "name": "Penny",
+      "admin": "false",
+      "id": 7
+    },
+    {
+      "userName": "Amelia",
+      "password": "pass",
+      "picURL": "",
+      "name": "Amelia",
+      "admin": "false",
+      "id": 8
+    },
+    {
+      "userName": "Jackson",
+      "password": "pass",
+      "picURL": "",
+      "name": "Jackson",
+      "admin": "false",
+      "id": 9
+    },
+    {
+      "userName": "test",
+      "password": "pass",
+      "picURL": "",
+      "name": "test",
+      "admin": "false",
+      "id": 10
+    },
+    {
+      "userName": "Batman",
+      "password": "pass",
+      "picURL": "",
+      "name": "Bruce Wayne",
+      "admin": "true",
+      "id": 11
+    },
+    {
+      "userName": "Walgreen",
+      "password": "pass",
+      "name": "Walgreen",
+      "id": 12
+    },
+    {
+      "userName": "test",
+      "password": "test",
+      "name": "test",
+      "admin": "false",
+      "picURL": "https://res.cloudinary.com/nss-35/image/upload/v1573488150/py4bfyk2kxnncpmmvjri.jpg",
+      "id": 13
+    }
+  ],
+  "cars": [
+    {
+      "id": 1,
+      "nickName": "Kelly's Mini Coupe",
+      "make": "Nissan 5",
+      "model": "Sentra 4",
+      "year": "2006",
+      "color": "Silver",
+      "picURL": "https://res.cloudinary.com/nss-35/image/upload/v1573054563/qu5flkkahicmffq1qu4r.jpg"
+    },
+    {
+      "id": 3,
+      "nickName": "Taylor's Car",
+      "make": "Nissan",
+      "model": "Sentra",
+      "year": "2006",
+      "color": "Silver",
+      "picURL": "placeHolder.jpeg"
+    },
+    {
+      "id": 4,
+      "nickName": "John's Car",
+      "make": "Nissan",
+      "model": "Sentra",
+      "year": "2006",
+      "color": "Silver",
+      "picURL": "placeHolder.jpeg"
+    },
+    {
+      "nickName": "Test Car",
+      "make": "TESLA",
+      "model": "TEST",
+      "year": "2019",
+      "color": "black, just all black, even the windows are black",
+      "picURL": "placeHolder.jpeg",
+      "id": 5
+    },
+    {
+      "nickName": "Test Car 2",
+      "make": "TESLA",
+      "model": "TEST",
+      "year": "2019",
+      "color": "black, just all black, even the windows are black",
+      "picURL": "placeHolder.jpeg",
+      "id": 6
+    },
+    {
+      "nickName": "Test Car 3",
+      "make": "TESLA",
+      "model": "TEST",
+      "year": "2019",
+      "color": "black, just all black, even the windows are black",
+      "picURL": "placeHolder.jpeg",
+      "id": 7
+    },
+    {
+      "nickName": "Test Car 4",
+      "make": "TESLA",
+      "model": "TEST",
+      "year": "2019",
+      "color": "black, just all black, even the windows are black",
+      "picURL": "placeHolder.jpeg",
+      "id": 99
+    },
+    {
+      "nickName": "fa",
+      "make": "fa",
+      "model": "fa",
+      "year": "fa",
+      "color": "fa",
+      "picURL": "placeHolder.jpeg",
+      "id": 10
+    },
+    {
+      "nickName": "ta",
+      "make": "ta",
+      "model": "ta",
+      "year": "ta",
+      "color": "ta",
+      "picURL": "placeHolder.jpeg",
+      "id": 11
+    },
+    {
+      "nickName": "nodeletepls",
+      "make": "test",
+      "model": "test",
+      "year": "test",
+      "color": "test",
+      "picURL": "placeHolder.jpeg",
+      "id": 12
+    },
+    {
+      "nickName": "HELLO",
+      "make": "PLS",
+      "model": "WORK",
+      "year": "STATE",
+      "color": "LOAD",
+      "picURL": "placeHolder.jpeg",
+      "id": 100
+    },
+    {
+      "id": 101,
+      "nickName": "YES",
+      "make": "THIS",
+      "model": "WORKS EDIT",
+      "year": "OK",
+      "color": "HMMM",
+      "picURL": "placeHolder.jpeg"
+    },
+    {
+      "id": 103,
+      "nickName": "YES 2",
+      "make": "THIS",
+      "model": "WORKS EDIT",
+      "year": "OK",
+      "color": "HMMM",
+      "picURL": "placeHolder.jpeg"
+    },
+    {
+      "id": 104,
+      "nickName": "Test Car",
+      "make": "TESLA",
+      "model": "YEET",
+      "year": "YEET",
+      "color": "YEET",
+      "picURL": "placeHolder.jpeg"
+    },
+    {
+      "id": 105,
+      "nickName": "The Cool Car",
+      "make": "Jeep",
+      "model": "wrangler",
+      "year": "2016",
+      "color": "anvil gray with cherry rose accent",
+      "picURL": "placeHolder.jpeg"
+    },
+    {
+      "id": 106,
+      "nickName": "Chitty Chitty Bang Bang",
+      "make": "TESLA",
+      "model": "THUNDERBIRD XX",
+      "year": "2019",
+      "color": "Transparent",
+      "picURL": "placeHolder.jpeg"
+    },
+    {
+      "nickName": "TEST IMAGE",
+      "make": "TEST IMAGE",
+      "model": "TEST IMAGE",
+      "year": "TEST IMAGE",
+      "color": "WHO CARES",
+      "picURL": "https://res.cloudinary.com/nss-35/image/upload/v1573054563/qu5flkkahicmffq1qu4r.jpg",
+      "id": 107
+    },
+    {
+      "nickName": "test image 2",
+      "make": "test image 2",
+      "model": "test image 2",
+      "year": "test image 2",
+      "color": "test image 2",
+      "picURL": "https://res.cloudinary.com/nss-35/image/upload/v1573484824/c1ewcgvzdlpwdjnw7bto.jpg",
+      "id": 108
+    }
+  ],
+  "cars_users": [
+    {
+      "id": 1,
+      "userId": 1,
+      "carId": 1
+    },
+    {
+      "userId": 1,
+      "carId": 103,
+      "id": 118
+    },
+    {
+      "id": 99,
+      "userId": 1,
+      "carId": 99
+    },
+    {
+      "id": 5,
+      "userId": 1,
+      "carId": 4
+    },
+    {
+      "id": 4,
+      "userId": 2,
+      "carId": 3
+    },
+    {
+      "userId": 1,
+      "carId": 6,
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "carId": 7,
+      "id": 7
+    },
+    {
+      "userId": 2,
+      "carId": 4,
+      "id": 22
+    },
+    {
+      "userId": 2,
+      "carId": 10,
+      "id": 29
+    },
+    {
+      "userId": 3,
+      "carId": 10,
+      "id": 25
+    },
+    {
+      "userId": 2,
+      "carId": 11,
+      "id": 26
+    },
+    {
+      "userId": 3,
+      "carId": 11,
+      "id": 27
+    },
+    {
+      "userId": 2,
+      "carId": 12,
+      "id": 44
+    },
+    {
+      "userId": 3,
+      "carId": 12,
+      "id": 45
+    },
+    {
+      "userId": 1,
+      "carId": 100,
+      "id": 100
+    },
+    {
+      "userId": 1,
+      "carId": 101,
+      "id": 101
+    },
+    {
+      "userId": 2,
+      "carId": 100,
+      "id": 103
+    },
+    {
+      "userId": 3,
+      "carId": 99,
+      "id": 104
+    },
+    {
+      "userId": 10,
+      "carId": 99,
+      "id": 108
+    },
+    {
+      "userId": 10,
+      "carId": 101,
+      "id": 110
+    },
+    {
+      "userId": 10,
+      "carId": 4,
+      "id": 113
+    },
+    {
+      "userId": 10,
+      "carId": 4,
+      "id": 114
+    },
+    {
+      "userId": 1,
+      "carId": 104,
+      "id": 122
+    },
+    {
+      "userId": 1,
+      "carId": 105,
+      "id": 124
+    },
+    {
+      "userId": 12,
+      "carId": 106,
+      "id": 125
+    },
+    {
+      "userId": 1,
+      "carId": 107,
+      "id": 127
+    },
+    {
+      "userId": 3,
+      "carId": 1,
+      "id": 128
+    },
+    {
+      "userId": 1,
+      "carId": 108,
+      "id": 129
+    }
+  ],
+  "kids": [
+    {
+      "id": 1,
+      "nickName": "Will-I-am",
+      "name": "William",
+      "age": 121,
+      "picURL": "try.jpeg"
+    },
+    {
+      "id": 2,
+      "nickName": "Test Kid",
+      "name": "we",
+      "age": 11,
+      "picURL": "y.jpeg"
+    },
+    {
+      "id": 3,
+      "nickName": "Billy Bobbie",
+      "name": "Bob",
+      "picURL": "hmmr.jpeg"
+    },
+    {
+      "id": 4,
+      "nickName": "Bobby B",
+      "name": "Robert Baratheon",
+      "picURL": "placeHolder.jpeg"
+    },
+    {
+      "id": 5,
+      "nickName": "Sally",
+      "name": "Sally Skellington",
+      "picURL": "placeHolder.jpeg"
+    },
+    {
+      "id": 6,
+      "nickName": "Jon Snow",
+      "name": "Jon Snow",
+      "picURL": "placeHolder.jpeg"
+    },
+    {
+      "id": 7,
+      "nickName": "Jingle Bell",
+      "name": "Bell",
+      "picURL": "placeHolder.jpeg"
+    },
+    {
+      "id": 8,
+      "nickName": "CVS",
+      "name": "Charles Victorsen Senft",
+      "picURL": "placeHolder.jpeg"
+    },
+    {
+      "nickName": "a",
+      "name": "a",
+      "age": "a",
+      "picURL": "placeHolder.jpeg",
+      "id": 9
+    }
+  ],
+  "kids_users": [
+    {
+      "id": 1,
+      "userId": 1,
+      "kidId": 1
+    },
+    {
+      "userId": 1,
+      "kidId": 3,
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "kidId": 4,
+      "id": 3
+    },
+    {
+      "userId": 10,
+      "kidId": 4,
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "kidId": 5,
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "kidId": 6,
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "kidId": 7,
+      "id": 7
+    },
+    {
+      "userId": 12,
+      "kidId": 8,
+      "id": 8
+    },
+    {
+      "userId": 3,
+      "kidId": 8,
+      "id": 9
+    },
+    {
+      "userId": 3,
+      "kidId": 1,
+      "id": 10
+    },
+    {
+      "userId": 1,
+      "kidId": 9,
+      "id": 11
+    }
+  ],
+  "rides": [
+    {
+      "id": 1,
+      "userId": 1,
+      "date": "Oct 29th 19",
+      "timeStamp": "10/22/2019",
+      "editTimeStamp": "10/22/2019",
+      "locationId": "1",
+      "PickedUp": false
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "date": "Oct 29th 19",
+      "timeStamp": "11/02/2019",
+      "editTimeStamp": "10/22/2019",
+      "locationId": "1",
+      "PickedUp": false
+    },
+    {
+      "userId": 1,
+      "date": "Oct 30th 19",
+      "timeStamp": "10:41 PM",
+      "editTimeStamp": "",
+      "locationId": "1",
+      "PickedUp": false,
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "date": "Oct 30th 19",
+      "timeStamp": "11:00 PM",
+      "editTimeStamp": "",
+      "locationId": "1",
+      "PickedUp": false,
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "date": "Oct 31st 19",
+      "carId": "4",
+      "timeStamp": "10:16 AM",
+      "editTimeStamp": "",
+      "locationId": "1",
+      "PickedUp": false,
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "date": "Oct 31st 19",
+      "carId": "1",
+      "timeStamp": "11:05 AM",
+      "editTimeStamp": "",
+      "locationId": "1",
+      "PickedUp": false,
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "date": "Oct 31st 19",
+      "carId": "1",
+      "timeStamp": "11:17 AM",
+      "editTimeStamp": "",
+      "locationId": "1",
+      "PickedUp": false,
+      "id": 9
+    },
+    {
+      "userId": 1,
+      "date": "Oct 31st 19",
+      "carId": "4",
+      "timeStamp": "12:03 PM",
+      "editTimeStamp": "",
+      "locationId": "1",
+      "PickedUp": false,
+      "id": 10
+    },
+    {
+      "userId": 1,
+      "date": "Oct 31st 19",
+      "carId": "1",
+      "timeStamp": "12:06 PM",
+      "editTimeStamp": "",
+      "locationId": "1",
+      "PickedUp": false,
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "date": "Oct 31st 19",
+      "carId": "4",
+      "timeStamp": "12:11 PM",
+      "editTimeStamp": "",
+      "locationId": "1",
+      "PickedUp": false,
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "date": "Oct 31st 19",
+      "carId": "103",
+      "timeStamp": "1:46 PM",
+      "editTimeStamp": "",
+      "locationId": "1",
+      "PickedUp": false,
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "date": "Oct 31st 19",
+      "carId": "100",
+      "timeStamp": "1:47 PM",
+      "editTimeStamp": "",
+      "locationId": "1",
+      "PickedUp": false,
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "date": "Oct 31st 19",
+      "carId": "1",
+      "timeStamp": "1:50 PM",
+      "editTimeStamp": "",
+      "locationId": "1",
+      "PickedUp": false,
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "date": "Oct 31st 19",
+      "carId": "105",
+      "timeStamp": "3:10 PM",
+      "editTimeStamp": "",
+      "locationId": "1",
+      "PickedUp": false,
+      "id": 17
+    },
+    {
+      "userId": 1,
+      "date": "Nov 1st 19",
+      "carId": "1",
+      "timeStamp": "10:18 AM",
+      "editTimeStamp": "",
+      "locationId": "1",
+      "PickedUp": false,
+      "id": 18
+    },
+    {
+      "userId": 1,
+      "date": "Nov 1st 19",
+      "carId": "4",
+      "timeStamp": "10:53 AM",
+      "editTimeStamp": "",
+      "locationId": "1",
+      "PickedUp": false,
+      "id": 19
+    },
+    {
+      "userId": 1,
+      "date": "Nov 4th 19",
+      "carId": "1",
+      "timeStamp": "2:30 PM",
+      "editTimeStamp": "",
+      "locationId": "1",
+      "PickedUp": true,
+      "id": 20
+    },
+    {
+      "userId": 1,
+      "date": "Nov 4th 19",
+      "carId": "1",
+      "timeStamp": "2:33 PM",
+      "editTimeStamp": "",
+      "locationId": "1",
+      "PickedUp": false,
+      "id": 21
+    },
+    {
+      "userId": 1,
+      "date": "Nov 5th 19",
+      "carId": "1",
+      "timeStamp": "9:58 AM",
+      "editTimeStamp": "",
+      "locationId": "1",
+      "PickedUp": false,
+      "id": 22
+    },
+    {
+      "userId": 1,
+      "date": "Nov 9th 19",
+      "carId": "1",
+      "timeStamp": "6:32 PM",
+      "editTimeStamp": "",
+      "locationId": "1",
+      "PickedUp": false,
+      "id": 23
+    },
+    {
+      "userId": 1,
+      "date": "Nov 11th 19",
+      "carId": "1",
+      "timeStamp": "8:47 AM",
+      "editTimeStamp": "",
+      "locationId": "1",
+      "PickedUp": false,
+      "id": 24
+    },
+    {
+      "userId": 1,
+      "date": "Nov 11th 19",
+      "carId": 107,
+      "timeStamp": "3:46 PM",
+      "editTimeStamp": "",
+      "locationId": "1",
+      "PickedUp": false,
+      "id": 25
+    }
+  ],
+  "kids_rides": [
+    {
+      "rideId": 20,
+      "kidId": 6,
+      "id": 3
+    },
+    {
+      "rideId": 21,
+      "kidId": 6,
+      "id": 1
+    },
+    {
+      "rideId": 21,
+      "kidId": 7,
+      "id": 2
+    },
+    {
+      "rideId": 22,
+      "kidId": 6,
+      "id": 4
+    },
+    {
+      "rideId": 22,
+      "kidId": 4,
+      "id": 5
+    },
+    {
+      "rideId": 23,
+      "kidId": 1,
+      "id": 6
+    },
+    {
+      "rideId": 23,
+      "kidId": 3,
+      "id": 7
+    },
+    {
+      "rideId": 24,
+      "kidId": 5,
+      "id": 8
+    },
+    {
+      "rideId": 24,
+      "kidId": 1,
+      "id": 9
+    },
+    {
+      "rideId": 24,
+      "kidId": 4,
+      "id": 10
+    },
+    {
+      "rideId": 25,
+      "kidId": 8,
+      "id": 11
+    },
+    {
+      "rideId": 25,
+      "kidId": 6,
+      "id": 12
+    },
+    {
+      "rideId": 25,
+      "kidId": 5,
+      "id": 13
+    },
+    {
+      "rideId": 25,
+      "kidId": 3,
+      "id": 14
+    },
+    {
+      "rideId": 25,
+      "kidId": 4,
+      "id": 15
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Dan Mills Elementary School"
+    }
+  ]
+}
